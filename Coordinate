@@ -1,0 +1,1 @@
+OpenCV kütüphanesi kullanılarak seçilen görüntü üzerinde 3 adet kırmızı daire oluşturulmuş ve bu daireleri görüntü üzerinde istediğimiz yere kaydırdıktan sonra dairelerin son konumlarının koordinatlarını yazdırıyoruz.
